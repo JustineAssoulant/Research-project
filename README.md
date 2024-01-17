@@ -1,4 +1,9 @@
 # Research-project
+
+## Contributeurs
+- Justine Assoulant
+- Margot Dumercq
+
 Visualization and distance computation in SE(3): Application to structural bioinformatics
 
 This project was carried out as part of our studies at INSA Toulouse and supervised by Juan Cortez, Research Director at LAAS-CNRS. 
